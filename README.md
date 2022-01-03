@@ -1,9 +1,9 @@
-# star-wars-card-games
-This compendium holds card decks for sabbac, corellian spike and pazaak. 
+# sw-card-games
+This compendium holds card decks for zabbac, corellian spook and pazook. 
 And simple standard rules as well. 
 
-Detailed rules for corellian spike can be found at: https://www.therpf.com/forums/attachments/corellian-spike-sabacc-rules-pdf.1055204/
+Detailed rules for corellian spooke can be found at: https://www.therpf.com/forums/attachments/corellian-spike-sabacc-rules-pdf.1055204/
 
 
 
-Please use https://github.com/awitteck/star-wars-card-games/raw/main/module.json for importing the decks.
+Please use https://github.com/awitteck/sw-card-games/raw/main/module.json for importing the decks.
