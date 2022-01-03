@@ -9,7 +9,7 @@
   "packs": [
     {
       "name": "star-wars-card-games",
-      "label": "star-wars-card-games",
+      "label": "Star Wars Card Games",
       "path": "./packs/star-wars-card-games.db",
       "entity": "Cards"
     }
