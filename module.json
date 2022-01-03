@@ -10,7 +10,7 @@
     {
       "name": "star-wars-card-games",
       "label": "star-wars-card-games",
-      "entity": "packs/star-wars-card-games.db"
+      "entity": "Cards"
     }
   ],
   "url": "https://github.com/awitteck/star-wars-card-games",
