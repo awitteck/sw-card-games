@@ -12,6 +12,12 @@
       "label": "Star Wars Card Games",
       "path": "./packs/star-wars-card-games.db",
       "entity": "Cards"
+    },
+    {
+      "name": "rules-star-wars-card-games",
+      "label": "Rules: Star Wars Card Games",
+      "path": "./packs/rules-star-wars-card-games.db",
+      "entity": "JournalEntry"
     }
   ],
   "url": "https://github.com/awitteck/star-wars-card-games",
