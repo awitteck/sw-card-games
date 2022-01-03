@@ -14,5 +14,5 @@
     }
   ],
   "url": "https://github.com/awitteck/star-wars-card-games",
-  "manifest": "https://raw.github.com/awitteck/star-wars-card-games/master/module.json"
+  "manifest": "https://github.com/awitteck/star-wars-card-games/raw/main/module.json"
 }
