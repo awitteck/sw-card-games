@@ -10,6 +10,7 @@
     {
       "name": "star-wars-card-games",
       "label": "star-wars-card-games",
+      "path": "./packs/star-wars-card-games.db",
       "entity": "Cards"
     }
   ],
