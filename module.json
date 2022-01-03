@@ -1,0 +1,16 @@
+{
+  "name": "star-wars-card-games",
+  "title": "Star Wars Card Games",
+  "description": "Card Decks for Star Wars. (Sabbac, Corellian Spike, Pazaak,...)",
+  "version": "0.1.0",
+  "compatibleCoreVersion": "9",
+  "minimumCoreVersion": "9",
+  "author": "Alexis Witteck",
+  "packs": [
+    {
+      "name": "star-wars-card-games",
+      "label": "star-wars-card-games",
+      "entity": "packs/star-wars-card-games.db"
+    }
+  ]
+}
