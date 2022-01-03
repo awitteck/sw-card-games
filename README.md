@@ -4,4 +4,4 @@ And short rules for sabbac and pazaak.
 
 Please use https://github.com/awitteck/star-wars-card-games/raw/main/module.json for importing the decks.
 
-Rules for corellian spike can be found at: file:///Users/awitteck/Downloads/Corellian%20Spike%20Sabacc%20Rules.pdf
+Rules for corellian spike can be found at: https://www.therpf.com/forums/attachments/corellian-spike-sabacc-rules-pdf.1055204/
