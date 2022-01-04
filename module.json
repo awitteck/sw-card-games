@@ -1,26 +1,26 @@
 {
-  "name": "star-wars-card-games",
-  "title": "Star Wars Card Games",
-  "description": "Card Decks for Star Wars. (Sabbac, Corellian Spike, Pazaak,...)",
-  "version": "1.0.2",
+  "name": "sw-card-games",
+  "title": "SW Card Games",
+  "description": "Card Decks for Star Wars. (Zabbac, Corellian Spook, Pazook,...)",
+  "version": "1.0.3",
   "compatibleCoreVersion": "9",
   "minimumCoreVersion": "9",
   "author": "Alexis Witteck",
   "packs": [
     {
-      "name": "star-wars-card-games",
-      "label": "Star Wars Card Games",
-      "path": "./packs/star-wars-card-games.db",
+      "name": "sw-card-games",
+      "label": "SW Card Games",
+      "path": "./packs/sw-card-games.db",
       "entity": "Cards"
     },
     {
-      "name": "rules-star-wars-card-games",
-      "label": "Rules: Star Wars Card Games",
-      "path": "./packs/rules-star-wars-card-games.db",
+      "name": "rules-sw-card-games",
+      "label": "Rules: SW Card Games",
+      "path": "./packs/rules-sw-card-games.db",
       "entity": "JournalEntry"
     }
   ],
-  "url": "https://github.com/awitteck/star-wars-card-games",
-  "manifest": "https://github.com/awitteck/star-wars-card-games/raw/main/module.json",
-  "download": "https://github.com/awitteck/star-wars-card-games/archive/refs/heads/main.zip"
+  "url": "https://github.com/awitteck/sw-card-games",
+  "manifest": "https://github.com/awitteck/sw-card-games/raw/main/module.json",
+  "download": "https://github.com/awitteck/sw-card-games/archive/refs/heads/main.zip"
 }
