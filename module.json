@@ -2,7 +2,7 @@
   "name": "sw-card-games",
   "title": "SW Card Games",
   "description": "Card Decks for Star Wars. (Zabbac, Corellian Spook, Pazook,...)",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "authors": [
     {
       "name": "Alexis Witteck",
@@ -28,8 +28,8 @@
     }
   ],
   "url": "https://github.com/awitteck/sw-card-games",
-  "manifest": "https://raw.githubusercontent.com/awitteck/sw-card-games/v2.0.1/module.json",
-  "download": "https://github.com/awitteck/sw-card-games/archive/refs/tags/v2.0.1.zip",
+  "manifest": "https://raw.githubusercontent.com/awitteck/sw-card-games/v2.0.3/module.json",
+  "download": "https://github.com/awitteck/sw-card-games/archive/refs/tags/v2.0.3.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
