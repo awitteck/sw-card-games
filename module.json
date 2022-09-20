@@ -8,19 +8,25 @@
   "author": "Alexis Witteck",
   "packs": [
     {
-      "name": "star-wars-card-games",
-      "label": "Star Wars Card Games",
-      "path": "./packs/star-wars-card-games.db",
-      "entity": "Cards"
+      "name": "sw-card-games",
+      "label": "SW Card Games",
+      "path": "./packs/sw-card-games.db",
+      "type": "Cards",
+      "private": false,
+      "flags": {}
     },
     {
-      "name": "rules-star-wars-card-games",
-      "label": "Rules: Star Wars Card Games",
-      "path": "./packs/rules-star-wars-card-games.db",
-      "entity": "JournalEntry"
+      "name": "rules-sw-card-games",
+      "label": "Rules: SW Card Games",
+      "path": "./packs/rules-sw-card-games.db",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     }
   ],
+
   "url": "https://github.com/awitteck/star-wars-card-games",
   "manifest": "https://raw.githubusercontent.com/awitteck/sw-card-games/v1.0.3/module.json",
   "download": "https://github.com/awitteck/sw-card-games/archive/refs/tags/v1.0.3.zip"
 }
+

@@ -1,7 +1,16 @@
-# star-wars-card-games
-This compendium holds card decks for sabbac, corellian spike and pazaak. 
-And short rules for sabbac and pazaak.
+# sw-card-games
 
-Please use https://github.com/awitteck/star-wars-card-games/raw/main/module.json for importing the decks.
+You will find four card decks for public card games played on a universe of a very good known franchise. 
+Cause of license issues the names differ a bit... <b>but you'll figure out which deck matches the orginial games.</b>
 
-Rules for corellian spike can be found at: https://www.therpf.com/forums/attachments/corellian-spike-sabacc-rules-pdf.1055204/
+This compendium holds card decks for <b>zabbac, corellian spook, smugglers poker and pazook</b> with simple standard rules for <b>zabbac, corellian spook, and pazook</b> as well. For smugglers poker the standard poker rules can be used. 
+
+Icons for the cards of zabbac, smugglers poker and pazook are used from https://game-icons.net/ ! The cards are created with inkscape by myself. 
+<b>Feel free to use them!</b>
+
+Cards for corellian spook are used from https://drive.google.com/drive/folders/12a9TDTOTXJaHcyneO78hNGGeIGemoQIZ?usp=sharing ! 
+
+
+<b>Use this link for importing:</b>
+<h3>https://github.com/awitteck/sw-card-games/raw/main/module.json</h3> 
+
