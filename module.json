@@ -1,19 +1,16 @@
 {
-  "name": "sw-card-games",
+  "id": "sw-card-games",
   "title": "SW Card Games",
-  "description": "Card Decks for Star Wars. (Zabbac, Corellian Spook, Pazook,...)",
-  "version": "2.0.4",
-  "authors": [
-    {
-      "name": "Alexis Witteck",
-      "flags": {}
-    }
-  ],
+  "version": "11.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
   "packs": [
     {
       "name": "sw-card-games",
       "label": "SW Card Games",
-      "path": "./packs/sw-card-games.db",
+      "path": "packs/sw-card-games.db",
       "type": "Cards",
       "private": false,
       "flags": {}
@@ -21,18 +18,20 @@
     {
       "name": "rules-sw-card-games",
       "label": "Rules: SW Card Games",
-      "path": "./packs/rules-sw-card-games.db",
+      "path": "packs/rules-sw-card-games.db",
       "type": "JournalEntry",
       "private": false,
       "flags": {}
     }
   ],
+  "description": "Card Decks for Star Wars. (Zabbac, Corellian Spook, Pazook,...),",
+  "authors": [
+    {
+      "name": "Alexis Witteck",
+      "flags": {}
+    }
+  ],
   "url": "https://github.com/awitteck/sw-card-games",
-  "manifest": "https://raw.githubusercontent.com/awitteck/sw-card-games/v2.0.4/module.json",
-  "download": "https://github.com/awitteck/sw-card-games/archive/refs/tags/v2.0.4.zip",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "10",
-    "maximum": "10"
-  }
+  "manifest": "https://raw.githubusercontent.com/awitteck/sw-card-games/v11.0.0/module.json",
+  "download": "https://github.com/awitteck/sw-card-games/archive/refs/tags/v11.0.0.zip"
 }
